@@ -14,7 +14,7 @@ module.exports = function(grunt) {
                     compress: true,
                 },
                 files: {
-                    'dist/stylesmain.min.css': 'src/styles/main.less'
+                    'dist/styles/main.min.css': 'src/styles/main.less'
                 }
             }
         },
